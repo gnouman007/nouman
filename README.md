@@ -237,3 +237,4 @@ gratis.  However, you cannot modify libgit2 and distribute it without
 supplying the source.
 
 See the [COPYING file](COPYING) for the full license text.
+please accept it
