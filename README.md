@@ -238,5 +238,10 @@ supplying the source.
 
 See the [COPYING file](COPYING) for the full license text.
 please accept it
+<<<<<<< .merge_file_LpBI6v
 i accept in  branch nouman
 hi this is branch in nouman` added third line in this branch
+=======
+i accept in  branch nouman`
+hi this is third line
+>>>>>>> .merge_file_FHUdQx
